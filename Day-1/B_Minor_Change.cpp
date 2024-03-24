@@ -17,7 +17,7 @@ int main()
             cnt++;
         }
     }
-
+    
     cout<<cnt<<endl;
 
     return 0; 
